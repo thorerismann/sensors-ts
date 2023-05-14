@@ -1,0 +1,11 @@
+name: timeseries
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - xarray
+  - netcdf4
+  - matplotlib
+  - ca-certificates
+  - openssl
+prefix: /home/tge/mambaforge/envs/timeseries
